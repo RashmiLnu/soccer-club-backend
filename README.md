@@ -23,7 +23,7 @@ This is the backend service for the Soccer Club application. It provides RESTful
 
 ### Clone the Repository
 
-- git clone https://github.com/your-username/soccer-club-backend.git
+- git clone (https://github.com/RashmiLnu/soccer-club-backend.git)
 - cd soccer-club-backend
 
 ### Configure the Application
