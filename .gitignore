@@ -1,0 +1,37 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IDE Specific ###
+.idea
+*.iws
+*.iml
+*.ipr
+.sts4-cache
+.factorypath
+.project
+.settings
+
+### Build Files ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Application Properties ###
+src/main/resources/application-*.properties
+!src/main/resources/application-example.properties
+
+### Environment Variables ###
+.env
+.env.*
+!.env.example
